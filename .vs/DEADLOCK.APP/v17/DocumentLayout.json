@@ -134,8 +134,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\FacturaService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowF0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:49:23.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:49:23.762Z"
             },
             {
               "$type": "Document",
@@ -147,8 +146,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\OrderService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:46:32.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:46:32.426Z"
             },
             {
               "$type": "Document",
@@ -160,8 +158,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:45:59.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:45:59.755Z"
             },
             {
               "$type": "Document",
@@ -173,8 +170,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\ProductService.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:42:49.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:42:49.932Z"
             },
             {
               "$type": "Document",
@@ -186,8 +182,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:42:18.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:42:18.931Z"
             },
             {
               "$type": "Document",
@@ -199,8 +194,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\IClientesServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:14:38.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:14:38.167Z"
             },
             {
               "$type": "Document",
@@ -212,8 +206,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Controllers\\GestionClientesController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:07:47.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:07:47.526Z"
             },
             {
               "$type": "Document",
@@ -225,8 +218,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\IClientesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T17:56:54.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T17:56:54.915Z"
             },
             {
               "$type": "Document",
@@ -236,7 +228,7 @@
               "RelativeDocumentMoniker": "DEADLOCK.APP\\Program.cs",
               "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Program.cs",
               "RelativeToolTip": "DEADLOCK.APP\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAqwEgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T19:12:37.144Z",
               "EditorCaption": ""
@@ -251,8 +243,7 @@
               "RelativeToolTip": "Shared\\Dtos\\OrderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:43:31.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:43:31.267Z"
             },
             {
               "$type": "Document",
@@ -264,8 +255,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\IFacturaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:48:55.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:48:55.442Z"
             },
             {
               "$type": "Document",
@@ -277,8 +267,7 @@
               "RelativeToolTip": "Shared\\Dtos\\FacturaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:43:23.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:43:23.283Z"
             },
             {
               "$type": "Document",
@@ -290,8 +279,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\OrderRepository.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:57:01.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:57:01.453Z"
             },
             {
               "$type": "Document",
@@ -303,8 +291,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:47:24.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:47:24.151Z"
             },
             {
               "$type": "Document",
@@ -316,8 +303,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Services\\ClientesServices.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:09:22.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:09:22.332Z"
             },
             {
               "$type": "Document",
@@ -329,8 +315,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:58:34.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:58:34.211Z"
             },
             {
               "$type": "Document",
@@ -342,8 +327,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:48:41.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:48:41.216Z"
             },
             {
               "$type": "Document",
@@ -355,8 +339,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\IFacturaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:49:23.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:49:23.869Z"
             },
             {
               "$type": "Document",
@@ -368,8 +351,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\FacturaRepository.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwCAAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:00:18.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:00:18.344Z"
             },
             {
               "$type": "Document",
@@ -381,8 +363,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Repository\\ClientesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:02:04.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:02:04.215Z"
             },
             {
               "$type": "Document",
@@ -394,8 +375,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T20:01:30.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T20:01:30.025Z"
             },
             {
               "$type": "Document",
@@ -407,8 +387,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:26:43.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:26:43.278Z"
             },
             {
               "$type": "Document",
@@ -420,8 +399,7 @@
               "RelativeToolTip": "DEADLOCK.APP\\Controllers\\FacturaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:39:54.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:39:54.713Z"
             },
             {
               "$type": "Document",
@@ -433,8 +411,7 @@
               "RelativeToolTip": "Shared\\Dtos\\ClienteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:42:58.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:42:58.576Z"
             }
           ]
         }
