@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharp\\DEADLOCK.APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8802A7F-BCBF-446F-A98F-94C7B071913F}|Shared\\Shared.csproj|e:\\csharp\\deadlock.app\\shared\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8802A7F-BCBF-446F-A98F-94C7B071913F}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8802A7F-BCBF-446F-A98F-94C7B071913F}|Shared\\Shared.csproj|e:\\csharp\\deadlock.app\\shared\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8802A7F-BCBF-446F-A98F-94C7B071913F}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\controllers\\gestionclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\controllers\\gestionclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\iclientesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\iclientesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\iclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\iclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\services\\clientesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\services\\clientesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\repository\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\repository\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|e:\\csharp\\deadlock.app\\deadlock.app\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E2B69-2EB9-47CB-9358-AEA7AC70D3C2}|DEADLOCK.APP\\DEADLOCK.APP.csproj|solutionrelative:deadlock.app\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8802A7F-BCBF-446F-A98F-94C7B071913F}|Shared\\Shared.csproj|e:\\csharp\\deadlock.app\\shared\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8802A7F-BCBF-446F-A98F-94C7B071913F}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\FacturaService.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\FacturaService.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\FacturaService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowF0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:49:23.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\OrderService.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\OrderService.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\OrderService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:46:32.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\IOrderService.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IOrderService.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:45:59.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\ProductService.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\ProductService.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\ProductService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:42:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\IProductService.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IProductService.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:42:18.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClientesServices.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IClientesServices.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\IClientesServices.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IClientesServices.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\IClientesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:14:38.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestionClientesController.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Controllers\\GestionClientesController.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Controllers\\GestionClientesController.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Controllers\\GestionClientesController.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Controllers\\GestionClientesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:07:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClientesRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IClientesRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\IClientesRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IClientesRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\IClientesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:56:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Program.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Program.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Program.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:12:37.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\Shared\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\OrderDto.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\Shared\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:43:31.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFacturaService.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IFacturaService.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\IFacturaService.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\IFacturaService.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\IFacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:48:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaDto.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\Shared\\Dtos\\FacturaDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\FacturaDto.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\Shared\\Dtos\\FacturaDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\FacturaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:43:23.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\OrderRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:57:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\IOrderRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:47:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientesServices.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\ClientesServices.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Services\\ClientesServices.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Services\\ClientesServices.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Services\\ClientesServices.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:09:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:58:34.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\IProductRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:48:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\IFacturaRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\IFacturaRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:49:23.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\FacturaRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\FacturaRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\FacturaRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:00:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Repository\\ClientesRepository.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Repository\\ClientesRepository.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Repository\\ClientesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:02:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:01:30.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:26:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "DEADLOCK.APP\\Controllers\\FacturaController.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\DEADLOCK.APP\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "DEADLOCK.APP\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:39:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "E:\\CSharp\\DEADLOCK.APP\\Shared\\Dtos\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\ClienteDto.cs",
+              "ToolTip": "E:\\CSharp\\DEADLOCK.APP\\Shared\\Dtos\\ClienteDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:42:58.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
